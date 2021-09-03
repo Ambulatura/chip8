@@ -8,8 +8,7 @@ Run: `win32_chip8.exe <program_path>`
 <img src="media/chip8.png" alt="chip8" width="%45" height="256"/>
 <img src="media/opcode.png" alt="opcode" width="%45" height="256"/>
 </p>
-<br>
 <p float="middle">
-<img src="media/space_invaders.png" alt="space_invaders" width="%30" height="256"/>
-<img src="media/brick.png" alt="brick" width="%30" height="256"/>
+<img src="media/space_invaders.png" alt="space_invaders" width="300" height="256"/>
+<img src="media/brick.png" alt="brick" width="300" height="256"/>
 </p>
